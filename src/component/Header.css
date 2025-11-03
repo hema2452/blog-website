@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    font-family: Inter;
+    height:170px;
+    background-color:#F55A5A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 28px;
+    color:#fff;
+    border-radius: 10px;
+    margin:0px 10px;
+}
+
+
+.header img{
+    height:70px;
+    margin-right:20px;
+    border-radius: 35px;
+}
